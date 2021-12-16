@@ -1,8 +1,16 @@
 # API service and story search
 
+<hr>
+
+![VivaAir](https://myfirstbucketbrian.s3.amazonaws.com/VivaAir.jpg)
+
+<hr>
+
 This test is requested by the company VIVA AIR for the development of an API. It involves querying the hacker-news APIs on the Topstories and item endpoints, which originate the latest real-time POSTs of Hacker News data. The user when querying our API, can filter the number of news he wants to see, and does so with an index i and a maximum number of stories n.
 
 Project carried out using Django, rest framework, redis-server and docker.
+
+<hr>
 
 ## How to Run
 
@@ -22,6 +30,7 @@ Django version 4.0, using settings 'apiviva.settings'
 Starting development server at http://127.0.0.1:5000/
 Quit the server with CONTROL-C.
 ```
+<hr>
 
 ## Description
 
@@ -34,6 +43,7 @@ This is an API designed to filter the information originated by Hacker News APIs
 
 ![Thunder Cliente](https://myfirstbucketbrian.s3.amazonaws.com/Thunder_Client.png)
 
+<hr>
 
 ## Author
 :man_technologist: **Brian Zapata**

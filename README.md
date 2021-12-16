@@ -28,8 +28,14 @@ Quit the server with CONTROL-C.
 This is an API designed to filter the information originated by Hacker News APIs. How is it done?. Hay dos fomar que se puede hacer:  
 1. from a browser the API URL is the following ```http://localhost:5000/api/v1```, at the end of the URL I can put the parameters or the range I want to see the latest Hacker News POSTs. Example:
 
-![Thunder Cliente](https://myfirstbucketbrian.s3.amazonaws.com/Thunder_Client.png)
+![Browser](https://myfirstbucketbrian.s3.amazonaws.com/Browser.png)
 
 2. From a tool to do REST API testing, put the URL of the api and in the body I can pass the parameters type Json. Example:
 
-![Browser](https://myfirstbucketbrian.s3.amazonaws.com/Browser.png)
+![Thunder Cliente](https://myfirstbucketbrian.s3.amazonaws.com/Thunder_Client.png)
+
+
+## Author
+:man_technologist: **Brian Zapata**
+* [GitHub](https://github.com/brian-1989)
+* [Twitter](https://twitter.com/BrianZa03390210)

@@ -34,7 +34,7 @@ Quit the server with CONTROL-C.
 
 ## Description
 
-This is an API designed to filter the information originated by Hacker News APIs. How is it done?. Hay dos fomar que se puede hacer:  
+This is an API designed to filter the information originated by Hacker News APIs. How is it done?. There are two ways to do this:  
 1. from a browser the API URL is the following ```http://localhost:5000/api/v1```, at the end of the URL I can put the parameters or the range I want to see the latest Hacker News POSTs. Example:
 
 ![Browser](https://myfirstbucketbrian.s3.amazonaws.com/Browser.png)
